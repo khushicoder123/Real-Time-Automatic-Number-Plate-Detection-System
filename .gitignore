@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Model or data files
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.pkl
+*.dll
+*.lib
+
