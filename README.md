@@ -16,7 +16,7 @@ The trained model is available in my [Patreon](https://www.patreon.com/ComputerV
 
 ## dependencies
 
-The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort) as mentioned in the [video](https://youtu.be/fyJB1t0o0ms?t=1120).
+The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort) 
 
 To run this on you local system download the zip file or push the repo to your local system. Add the virtual enviornment using python -m venv venv. Start the virtual enviornment using venv\Scripts\activate
 . Then run command "python app.py".
